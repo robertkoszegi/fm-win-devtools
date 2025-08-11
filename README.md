@@ -2,7 +2,7 @@
 
 An AutoHotkey project to implement a comprehensive set of convenient keyboard shortcuts and functionality fixes for the FileMaker development environment on Windows.<br>
 <br>
-Edit as you wish for fit your preferences. Please reach out if you have any suggestions. 
+Edit as you wish to fit your preferences. Please reach out if you have any suggestions. 
 <br>
 More complex features and function templates to come. 
 
@@ -13,7 +13,11 @@ More complex features and function templates to come.
 * *Window-specific, mode-specific shortcuts*
 * *Primarily left-handed key combinations to reduce switching between mouse and keyboard with the right hand*
 * *Basic code editing features in the calculation window*
-* *Remapping important, but weird native keyboard shortcuts to be more intuitive*
+* *Easily open main developer windows*
+* *Easily manage expressions in Data Viewer*
+* *Intuitively use arrows to step through your script in the Debugger*
+* *One shortcut to open Debugger from either window (Document or Script Workspace)*
+* *One shortcut to toggle between Layout and Browse modes*
 
 ## Requirements
 AutoHotkey v2.0 
