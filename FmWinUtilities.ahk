@@ -150,7 +150,7 @@ SetTitleMatchMode "Regex"
 	}
 
 	; Conditional Formatting
-	; Ctrl+Alt+Shift+c (with a text object selected)
+	; Ctrl + Alt + Shift + C (with a text object selected)
 	^!+c::
 	{
 
@@ -163,7 +163,7 @@ SetTitleMatchMode "Regex"
 	}
 
 	; Slide Control Setup
-	; Alt+Win+s (with a slide control selcted)
+	; Alt + Win + S (with a slide control selcted)
 	!+c::
 	{
 
@@ -176,7 +176,7 @@ SetTitleMatchMode "Regex"
 	}
 
 	; Show Sample Data
-	; Ctrl+Alt+Shift+s
+	; Ctrl + Alt + Shift + S
 	^!+s::
 	{
 
@@ -192,8 +192,6 @@ SetTitleMatchMode "Regex"
 #HotIf 
 
 
-
-; Below windows will be by class "HwndWrapper[...]" or window name
 
 ; ==========================================================
 ; 					DATA VIEWER
