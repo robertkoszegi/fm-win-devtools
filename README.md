@@ -28,13 +28,13 @@ AutoHotkey v2.0
 ### Document Window
 
 #### Browse Mode:
-`Ctrl + Backspace`: Delete entire words in Browse Mode. (Not sure why this has always been missing here, but not anywhere else in FM.)
+`Ctrl + Backspace`: Delete entire words in Browse Mode. (Not sure why this has always been missing from the document window in browse mode, but not anywhere else in FM.)
 
 #### Layout Mode:
 `Ctrl + Alt + I`: New inspector window<br>
 `Ctrl + Alt + Shift + C`: Conditional formatting dialog (select object first)<br>
 `Ctrl + Alt + Shift + S`: Show sample data<br>
-`Alt + Win + S`: Slide control setup dialog (select object first) \[Kind of redundant, but why not?]<br>
+`Alt + Win + C`: Slide control setup dialog (select object first) \[Kind of redundant, but why not?]<br>
 
 #### General:
 `Ctrl + Alt + Shift + O`: Open recent<br>
